@@ -35,7 +35,7 @@ def getevent(days=1):
 
 def a(schedules: list):
     for schedule in schedules:
-
+        event
     # d = {}
     # for schedule in schedules:
     #     if 'SUMMARY' in schedule.keys():
